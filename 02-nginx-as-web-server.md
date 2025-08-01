@@ -1,5 +1,6 @@
 # 🌐 Section 2: NGINX as a Web Server
 
+
 ## 🚀 Goal
 
 Learn how to use NGINX to serve static content such as HTML, CSS, JavaScript, and images — a foundational skill for DevOps and Cloud Engineers.
